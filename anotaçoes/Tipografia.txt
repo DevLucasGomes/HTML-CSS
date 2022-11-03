@@ -1,0 +1,19 @@
+Tipográfia
+
+ALTURA-X = tamanho de todas as letras minusculas.
+ALTURA DAS MAIUSCULAS = tamanho das maiusculas.
+ASCENDENTE = parte das minusculas que passa da altura x para cima.
+DESCENDENTE = parte das minusculas que passa da altura x para baixo.
+CORPO = altura total.
+
+Categorias de Fontes
+
+Serifadas = com serifa.
+
+Sens-serif = sem serifa.
+
+Monoespaçadas (pode ser com ou sem serifa) =  todas as letras tem a mesma largura.
+
+Handwriting = simula escritura a mão.
+
+Display = comemorativas, não se preocupa em obedecer as outras regras.
