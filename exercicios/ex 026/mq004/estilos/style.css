@@ -7,7 +7,7 @@
     font-size: 1em;
     margin: 0px;
     padding: 0px;
-    box-sizing: border-box;
+    box-sizing: border-box;  /* Inclui a borda no cálculo do tamanho */
 }
 
 html {
