@@ -23,8 +23,12 @@ i#burguer {
     background-color: rgb(78, 78, 78);
     color: white;
     display: block;
-    text-align: center;
+    text-align: left;
     padding: 10px;
+    width: 25px;
+    margin-left: 5px;
+    border: 1px solid black;
+    border-radius: 50%;
 }
 
 i#burguer:hover {
@@ -48,11 +52,14 @@ menu > ul > li > a {
     text-align: center;
     background-color: rgb(106, 106, 106);
     color: white;
-    border-top: 2px solid rgb(139, 139, 139);
+    border: 1px solid black;
+    border-radius: 20px;
+    margin-bottom: 3px;
 }
 
 menu > ul > li > a:hover {
     background-color: gray;
+    transform: translateX(5px) translateY(-2px);
 }
 
 main {
